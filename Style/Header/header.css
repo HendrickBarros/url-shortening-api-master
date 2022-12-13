@@ -1,0 +1,68 @@
+header{
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.logo{
+    display: inline;
+}
+
+.login-signup{
+   
+   display: flex;
+   justify-content: flex-end;
+   margin-right: 15px;
+   margin-top: -40px;
+
+}
+
+a.signup{
+    width: 65px;
+    background-color: #00ffff;
+    border-radius: 20px;
+    color: #fff;
+    text-align: center;
+    
+  
+    
+}
+.signup:hover{
+        background-color: #8bf1f1;
+}
+
+
+.login{
+    margin-right: 20px;
+}
+
+.login:hover{
+    color:  #b5b9bd; 
+}
+
+.login-signup a{
+    padding: 7px;
+} 
+.features{
+
+    margin-top: -40px;
+    margin-left: 170px;
+    padding-left: 10px;
+}
+
+.features li{
+    float: left;
+    padding: 10px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+a{
+    color: #5f6061;
+}
+.features a:hover{
+    color:  #b5b9bd;
+}

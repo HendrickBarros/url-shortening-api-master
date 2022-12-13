@@ -3,3 +3,19 @@
     padding: 0;
     list-style: none;
 }
+
+body{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.all-content{
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+}
