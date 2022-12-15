@@ -14,6 +14,7 @@ header{
    justify-content: flex-end;
    margin-right: 15px;
    margin-top: -40px;
+   
 
 }
 
@@ -23,7 +24,7 @@ a.signup{
     border-radius: 20px;
     color: #fff;
     text-align: center;
-    
+    transition: .5s;
   
     
 }
@@ -43,6 +44,11 @@ a.signup{
 .login-signup a{
     padding: 7px;
 } 
+
+a.login{
+    color: #5f6061;   
+    transition: .5s;
+}
 .features{
 
     margin-top: -40px;
@@ -60,8 +66,9 @@ a.signup{
     clear: both;
 }
 
-a{
+.features a{
     color: #5f6061;
+    transition: .5s;
 }
 .features a:hover{
     color:  #b5b9bd;

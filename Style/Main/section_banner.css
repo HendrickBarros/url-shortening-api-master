@@ -1,0 +1,19 @@
+
+.banner{
+    display: flex;
+    width: auto;
+    height: 500px;
+}
+.content_banner{
+    width: 400px;
+    height: 500px;
+    font-size: 24px;
+}
+.banner_img{
+  align-self: flex-end;
+  position: relative;
+
+  
+}
+
+
