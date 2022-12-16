@@ -3,17 +3,47 @@
     display: flex;
     width: auto;
     height: 500px;
+    margin-bottom: 300px;
+}
+
+.content_banner h1{
+    font-size: 45px;
+    padding-top: 100px;
 }
 .content_banner{
-    width: 400px;
+    width: auto;
     height: 500px;
-    font-size: 24px;
+    
 }
+
 .banner_img{
   align-self: flex-end;
   position: relative;
-
-  
+  left: 7.5rem;
 }
 
+.content_banner p{
+    line-height: 24px;
+    margin-bottom: 40px;
+    
+}
+
+
+.content_banner a{
+    color: #fff;
+    background-color:#00ffff;
+    border-radius: 20px;
+    padding: 7px;
+    transition: .5s;
+   
+}
+
+.content_banner a:hover{
+    background-color: #8bf1f1;
+}
+a .iniciar{
+    font-size: 12px;
+    
+  
+}
 
