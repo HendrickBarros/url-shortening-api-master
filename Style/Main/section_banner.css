@@ -3,7 +3,10 @@
     display: flex;
     width: auto;
     height: 500px;
-    margin-bottom: 300px;
+    margin-bottom: 150px;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 .content_banner h1{
@@ -29,21 +32,23 @@
 }
 
 
-.content_banner a{
-    color: #fff;
-    background-color:#00ffff;
+a.iniciar{
+    height: 100px;
+    background-color: #00ffff;
     border-radius: 20px;
-    padding: 7px;
+    color: #fff;
+    text-align: center;
     transition: .5s;
-   
+    padding: 10px;
 }
 
-.content_banner a:hover{
+a.iniciar:hover{
     background-color: #8bf1f1;
 }
-a .iniciar{
-    font-size: 12px;
+
+  
+    
     
   
-}
+
 
