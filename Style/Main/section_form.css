@@ -1,0 +1,14 @@
+.section_form{
+    margin-bottom: 100px;
+    margin-top: -80px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.form_container{
+
+    
+    width: 100%;
+    height: 120px;
+    border-radius: 6px;
+}
